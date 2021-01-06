@@ -22,7 +22,7 @@
 ## 项目经历
 
 1. 学校 - senior design - 4人小组合作 - 201909- 202005 
-    * This goal is to design a mobile application for children (ages 10-13) with diabetes to view their blood glucose levels in a more 
+    * This goal is to design a Ios mobile application for children (ages 10-13) with diabetes to view their blood glucose levels in a more 
        visually appealing format than traditional blood glucose applications. 
     * 由于目标群体是10-13岁的小孩,我们将收集到的数据转换为汽车在公路上行驶。 数据过高或过低都会使汽车偏离道路。
     * 主要负责使汽车移动，车辆的选择和数据超越设定的数值后的警报。
